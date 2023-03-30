@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(190, 233, 218);
+}
+h1 {
+    color: rgb(105, 30, 175);
+}
+h3 {
+    color: blueviolet;
+}
+img {
+    width: 600px;
+}
+.bigtext {
+    font-size: 1.5rem;
+}
